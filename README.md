@@ -2,11 +2,10 @@
 ## Project for the 2024 NFL Big Data Bowl
 ADD LINK TO KAGGLE SUBMISSION
 
-Ian Fratarcangeli | Hamilton College Math and Computer Science Undergraduate Student | [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/hadrian-fratarcangeli/))
+Ian Fratarcangeli | Hamilton College Math and Computer Science Undergraduate Student | [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/hadrian-fratarcangeli/)
 
 John Wilson | Hamilton College Math and Computer Science Undergraduate Student | [LinkedIn](https://www.linkedin.com/in/john-wilson31/)
 
-Also special thanks to Professor Kuruwita for being a great resource to bounce ideas off of throughout this entire project. 
 
 ## Repository Directory
 
@@ -18,5 +17,8 @@ All visuals used for our submission are included, in better quality. The lower-q
 
 ### Bibliography
 ADD SOURCES
+
+Special thanks to Professor Chinthaka Kuruwita for being a great resource to bounce ideas off of throughout this entire project. 
+
 
 
