@@ -2,7 +2,7 @@
 ## Project for the 2024 NFL Big Data Bowl
 ADD LINK TO KAGGLE SUBMISSION
 
-Ian Fratarcangeli | Hamilton College Math and Computer Science Undergraduate Student | [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/hadrian-fratarcangeli/)
+Ian Fratarcangeli | Hamilton College Math and Computer Science Undergraduate Student | [LinkedIn](https://www.linkedin.com/in/hadrian-fratarcangeli/)
 
 John Wilson | Hamilton College Math and Computer Science Undergraduate Student | [LinkedIn](https://www.linkedin.com/in/john-wilson31/)
 
