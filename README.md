@@ -17,21 +17,21 @@ All visuals used for our submission are included, in better quality. The lower-q
 
 ### Bibliography
 
-Inayatali, H., Hocevar, D., & White, A. (2023). Between the Lines: How Do We Measure Pressure? NFL Big Data Bowl 2023
+Inayatali, H., Hocevar, D., & White, A. (2023). Between the Lines: How Do We Measure Pressure? NFL Big Data Bowl 2023 \
 [https://www.kaggle.com/code/hassaaninayatali/between-the-lines-how-do-we-measure-pressure](https://www.kaggle.com/code/hassaaninayatali/between-the-lines-how-do-we-measure-pressure)
 
-Singer, C. (2023). The Shield. NFL Big Data Bowl 2023
+Singer, C. (2023). The Shield. NFL Big Data Bowl 2023 \
 [https://www.kaggle.com/code/charliesinger/the-shield](https://www.kaggle.com/code/charliesinger/the-shield) 
 
-Ibrahim, P. & Sagrolikar, J. (2023). Open SPACE: Spatial Survival Probabilities. NFL Big Data Bowl 2023
+Ibrahim, P. & Sagrolikar, J. (2023). Open SPACE: Spatial Survival Probabilities. NFL Big Data Bowl 2023 \
 [https://www.kaggle.com/code/jaysagrolikar/open-space-spatial-survival-probabilities/notebook](https://www.kaggle.com/code/jaysagrolikar/open-space-spatial-survival-probabilities/notebook)
 
 #### Animation Resources 
 
-Samaha, K. (2023). EDA & Animation | nflverse | NFL 2024 | R
+Samaha, K. (2023). EDA & Animation | nflverse | NFL 2024 | R \
 [https://www.kaggle.com/code/khsamaha/eda-animation-nflverse-nfl-2024-r](https://www.kaggle.com/code/khsamaha/eda-animation-nflverse-nfl-2024-r)
 
-Furman, M. (2020). gg_field
+Furman, M. (2020). gg_field \
 [https://github.com/mlfurman3/gg_field](https://github.com/mlfurman3/gg_field)
 
 Special thanks to Professor Chinthaka Kuruwita for being a great resource to bounce ideas off of throughout this entire project. 
