@@ -7,7 +7,7 @@ library(ggplot2)
 library(gt)
 
 
-### Setting up the data
+## Setting up the data
 
 list.files(path = "../input")
 
